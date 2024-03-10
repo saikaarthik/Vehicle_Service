@@ -2,7 +2,7 @@
 
 In today's fast-paced world, convenience and efficiency are paramount. The Vehicle Service Management System aims to streamline the process of servicing vehicles by providing users with a variety of options and ample time to make informed decisions. This platform also assists service technicians by displaying available services with specifications, facilitating order reception, and ensuring accurate customer information management.
 
-### 1.3 Objective
+### Objective
 
 The objectives of this project are:
 
